@@ -1,2 +1,1 @@
-# sentimentanalysis
-analysing sentiments
+# mobilecomparison
